@@ -20,6 +20,15 @@ Run `IconForge.py` and use the graphical interface to convert your images to ico
 - Batch conversion
 - Modern user interface
 
+## Supported Formats
+
+IconForge supports the following image formats for conversion:
+- PNG (*.png)
+- JPG (*.jpg, *.jpeg)
+- BMP (*.bmp)
+- GIF (*.gif)
+- TGA (*.tga)
+
 ## License
 
 MIT
